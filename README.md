@@ -1,13 +1,13 @@
-# Hi 👋
+# Hey! 👋
 
 I'm S-e-b-a-s, a web developer passionate about clean code and best practices.
 
 ## My skills 💻
 
-- HTML/CSS/JavaScript
-- React/Redux
-- Node/Express
-- MongoDB
+- HTML/CSS/JavaScript/Bootstrap
+- React
+- MySQL
+- Docker
 - Git/GitHub
 
 ## My interests 🌱
@@ -25,6 +25,4 @@ I'm S-e-b-a-s, a web developer passionate about clean code and best practices.
 
 You can find me on:
 
-- [Twitter](https://twitter.com/S-e-b-a-s)
-- [LinkedIn](https://www.linkedin.com/in/S-e-b-a-s)
-- [Medium](https://medium.com/@S-e-b-a-s)
+- carrenosebastian54@gmail.com
